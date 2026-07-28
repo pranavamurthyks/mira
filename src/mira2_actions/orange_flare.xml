@@ -1,0 +1,9 @@
+<root BTCPP_format="4" main_tree_to_execute="MainTree">
+  
+  <BehaviorTree ID="MainTree">
+
+        <IsFlareVisible name="is_flare_visible" flare_z="{flare_z}"/>
+
+  </BehaviorTree>
+
+</root>
